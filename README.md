@@ -1,6 +1,6 @@
 # 🚀 Internet Speed Test GUI
 
-A Python-based **Internet Speed Test GUI** built using `tkinter`, `speedtest`, and `matplotlib`. This app allows users to check their **download speed, upload speed, and ping**, while also providing a visual representation of speed trends.
+A Python-based **Internet Speed Test GUI** built using `tkinter`, `speedtest`, and `matplotlib`. This app allows users to check their **download speed, upload speed, and ping**, while also providing a visual representation of speed trends. 
 
 ---
 
@@ -48,11 +48,22 @@ The application dynamically plots the **last 10 speed test results**, showing tr
 
 ---
 
+## 📸 Screenshot of the GUI
+
+<img width="491" alt="Screenshot 2025-03-06 at 8 12 43 PM" src="https://github.com/user-attachments/assets/21633ea8-81dd-488e-9331-2ac056aef6ad" />
+
+
+
+
+
+---
+
 ## 🏗️ Project Structure
 ```plaintext
 📂 Internet Speed Test
 ├── speedtest_gui.py  # Main script
 ├── README.md         # Documentation
+├── screenshot.png    # GUI Screenshot
 ```
 
 ---
@@ -63,7 +74,6 @@ This project is **open-source** and free to use for personal or educational purp
 ---
 
 ## 🤝 Contributing
-Feel free to fork the repository and contribute! Suggestions and improvements are always welcome.
+Feel free to fork the repository and contribute! Suggestions and improvements are always welcome. 
 
 Happy Speed Testing! 🚀
-
